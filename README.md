@@ -1,4 +1,54 @@
 ### Hi there 👋
+<img src="https://github.com/Yefersonysdev/Yefersonysdev/blob/main/helloys.svg"/>
+
+
+<h1 align="center">Hola 👋 soy Yeferson, desarrollador Front-end junior especializado en REACT y Vue</h1>
+
+___
+
+<br>
+
+## ¿Quieres saber un poco más sobre mí?
+
+~~~ javascript
+const aboutMe = {
+   pronouns: "he" | "him",
+   code: [Javascript,Typescript, HTML, CSS, SQL],
+   technologies: {
+      frontEnd: {
+         Javascript: ["VUE.JS","jQuery, Ajax, PWA"],
+         Typescript: ["React"],
+         css: ["Bootstrap", "Material Design","Tailwind"]
+      },
+      backEnd: {
+         Javascript: ["NODE.js"]
+      },
+      databases: ["MySQL"],
+   },
+   currentOccupation: ["last month student, open for job opportunities"]
+};
+~~~
+
+</br>
+
+## ¿Quieres contactar conmigo?
+
+<br>
+
+* <img align="center" alt="Linkedin" width="44px" src="https://github.com/Yefersonysdev/Yefersonysdev/blob/main/linkedin.svg" />&nbsp;&nbsp;
+<a href="www.linkedin.com/in/yeferson-suárez-31563a258">Linkedin</a>
+
+* <img align="center" alt="Gmail" width="46px" src="https://github.com/Yefersonysdev/Yefersonysdev/blob/main/email.svg" />&nbsp;&nbsp;
+<a href="">yefer.dev</a> 
+
+<br>
+
+## Alguno de mis proyectos
+
+* [Gestion de Libreta de Notas Estudiante](https://github.com/jitos-dev/Calculator-pan "Aplicacion Web para gestion escolar en las notas escolares")
+
+
+
 
 <!--
 **Yefersonysdev/Yefersonysdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
