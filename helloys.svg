@@ -4,7 +4,7 @@
 <div xmlns="http://www.w3.org/1999/xhtml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Righteous&display=swap" rel="stylesheet"> 
+<link href="https://fonts.googleapis.com/css2?family=Righteous&display=swap" rel="preconnect"> 
 <style>.byReeven {
                 font-family: 'Righteous', cursive;
                display:flex; flex-direction: column;
