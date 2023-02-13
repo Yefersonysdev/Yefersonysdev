@@ -45,7 +45,7 @@ const aboutMe = {
 
 ## Alguno de mis proyectos
 
-* [Gestion de Libreta de Notas Estudiante](https://github.com/jitos-dev/Calculator-pan "Aplicacion Web para gestion escolar en las notas escolares")
+* [Gestion de Libreta de Notas Estudiante](https://github.com/Yefersonysdev/registrofront.git"Aplicacion Web para gestion escolar en las notas escolares")
 
 
 
