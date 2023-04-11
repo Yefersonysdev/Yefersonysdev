@@ -2,7 +2,7 @@
 <img src="https://github.com/Yefersonysdev/Yefersonysdev/blob/main/helloys.svg"/>
 
 
-<h1 align="center">Hola 👋 soy Yeferson, desarrollador Front-end junior especializado en REACT y Vue</h1>
+<h1 align="center">Hola 👋 soy Yeferson, desarrollador Front-end especializado en REACT y Vue|Typescript</h1>
 
 ___
 
